@@ -1,0 +1,13 @@
+# Virtual Environment
+/venv
+
+.idea/
+.DS_Store
+
+__pycache__/
+
+# Input JSON File
+*.json
+
+# Logs
+*.log
